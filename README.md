@@ -1,2 +1,3 @@
 # De1_Frontend_Practice
-- Bài này em chưa hoàn thiện responsive. Responsive mới có code phần header và navbar 
+- Em mới hoàn thiện theo file photoshop
+- Bài này em chưa hoàn thiện responsive. Responsive mới có code phần header và navbar. 
